@@ -22,8 +22,13 @@ aca esta mi proceso aprendiendo ciencia de datos con el curso de ciencia de dato
 -aca se ubica lo que aprendi en los primeros 3 modulos, aprendizaje basico de algunos comandos de identificacion de datos
 
 ### modulo1s4
--aprendo sobre las estructuras de datos, vectores, matrices, dataframes y listas
+-aprendo sobre las estructuras de datos, vectores, matrices, dataframes y listas.
+
 -coercion de datos
+
 -formas de manejar estas estructuras de datos
+
 -formatos tidy y no tidy (contingencia)
+
+
 
