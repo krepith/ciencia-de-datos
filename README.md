@@ -24,6 +24,6 @@ aca esta mi proceso aprendiendo ciencia de datos con el curso de ciencia de dato
 ### modulo1s4
 -aprendo sobre las estructuras de datos, vectores, matrices, dataframes y listas
 -coercion de datos
-
 -formas de manejar estas estructuras de datos
 -formatos tidy y no tidy (contingencia)
+
