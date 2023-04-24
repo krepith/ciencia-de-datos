@@ -22,13 +22,14 @@ aca esta mi proceso aprendiendo ciencia de datos con el curso de ciencia de dato
 -aca se ubica lo que aprendi en los primeros 3 modulos, aprendizaje basico de algunos comandos de identificacion de datos
 
 ### modulo1s4
--aprendo sobre las estructuras de datos, vectores, matrices, dataframes y listas.
-
--coercion de datos
-
--formas de manejar estas estructuras de datos
-
--formatos tidy y no tidy (contingencia)
+- Aprendo sobre las estructuras de datos, vectores, matrices, dataframes y listas.
+-  - vector: conjunto lineal de un mismo tipo de dato
+-  - matrix: tabla de solo numeros
+-  - dataframe: tabla donde cada columna tiene un tipo de dato 
+-  - lista: conjunto lineal de datos, donde cada dato puede ser un vector, una matrix, un data frame, o un dato normal 
+- Coercion de datos
+- Formas de manejar estas estructuras de datos
+- Formatos tidy y no tidy (contingencia)
 
 
 
