@@ -1,6 +1,0 @@
-library(tidyverse)
-install.packages("datos")
-library(datos)
-datos::millas
-ggplot(data=datos::millas) +
-  geom_point(mapping = aes(x=cilindrada, y= autopista))
