@@ -44,5 +44,6 @@ aca esta mi proceso aprendiendo ciencia de datos con el curso de ciencia de dato
 - - library(readxl)
 - - import dataset de Rstudio
 - sav (encuestas)
+- library(datapasta) para tablas en html
 
 
