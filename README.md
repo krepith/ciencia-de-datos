@@ -46,4 +46,8 @@ aca esta mi proceso aprendiendo ciencia de datos con el curso de ciencia de dato
 - sav (encuestas)
 - library(datapasta) para tablas en html
 
+### modulo2s1 :four:
+- transformar datos
+- - mutate crea una nueva columna con una operacion solicitada
+- - select selecciona lo que le pedimos
 
