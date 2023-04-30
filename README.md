@@ -70,7 +70,8 @@ aca esta mi proceso aprendiendo ciencia de datos con el curso de ciencia de dato
 - - left_join  combina 2 tablas
 - - debe haber solo un tipo de variable por columna
 - - spread divide en 2 columnas basadas en un argumento 
-
+- - separate separa una variable en 2 nuevas variables (columnas)
+- - unite une 2 columnas 
 
 
 
