@@ -64,7 +64,12 @@ aca esta mi proceso aprendiendo ciencia de datos con el curso de ciencia de dato
 - - - filter(between(total, 1000, 2000)) filtra entre 2 valores
 - - casos <- transform(casos, Fecha=as.Date(casos$Fecha,format="%Y-%m-%d")) #transforme el char a fecha
 
-
+### modulo2s3 :six:
+- manipulacion de datos
+- - gather combina dos columnas en una nueva 
+- - left_join  combina 2 tablas
+- - debe haber solo un tipo de variable por columna
+- - spread divide en 2 columnas basadas en un argumento 
 
 
 
