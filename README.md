@@ -46,4 +46,27 @@ aca esta mi proceso aprendiendo ciencia de datos con el curso de ciencia de dato
 - sav (encuestas)
 - library(datapasta) para tablas en html
 
+### modulo2s1 :four:
+- transformar datos
+- - mutate crea una nueva columna con una operacion solicitada, edita la tabla
+- - select selecciona lo que le pedimos
+- - filter busca filas especificas}
+- - summarise(): permite modificar con funciones matematicas
+
+### modulo2s2 :five:
+-libreria dplyr:
+- - grup_by()agrupa por caracteristicas similares
+- - acciones concretas que ayudan a agrupar o filtrar:
+- - - arrange ordena de forma ascendente
+- - - -arrange ordena de forma descendente 
+- - - filter(Region %in$ c("valparaiso", "maule") %in% c para usar un vector en un filter
+- - - slice_max( variable, n=5) muestra los 5 valores mas altos de la variable
+- - - filter(between(total, 1000, 2000)) filtra entre 2 valores
+- - casos <- transform(casos, Fecha=as.Date(casos$Fecha,format="%Y-%m-%d")) #transforme el char a fecha
+
+
+
+
+
+
 
