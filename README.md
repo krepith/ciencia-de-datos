@@ -76,7 +76,14 @@ aca esta mi proceso aprendiendo ciencia de datos con el curso de ciencia de dato
 ### modulo2s4 :seven:
 analisis exploratorio de datos:
 - ggplot(data = diamantes)+ #elijo la data
-- - geom_bar(mapping = aes(x=corte)) +agrego un parametro de visualizacion con +
-- 
+- - geom_bar(mapping = aes(x=corte)) +agrego un parametro de visualizacion con + grafico de barras
+- - geom_freqpoly graficar por lineas poligonales
+- - geom_point grafica una distribucion de puntos
+- - si existen datos inusuales se pueden eliminar o remplazar
+- - - eliminar no es recomendado, es mejor remplazar
+- covariacion: como perillas entre mas obreros menos se demora en construir (proporcion indirecta)
+- - aes() de aestethics define que variables van en el grafico y en que ejes
+
+
 
 
