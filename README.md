@@ -73,6 +73,10 @@ aca esta mi proceso aprendiendo ciencia de datos con el curso de ciencia de dato
 - - separate separa una variable en 2 nuevas variables (columnas)
 - - unite une 2 columnas 
 
-
+### modulo2s4 :seven:
+analisis exploratorio de datos:
+- ggplot(data = diamantes)+ #elijo la data
+- - geom_bar(mapping = aes(x=corte)) +agrego un parametro de visualizacion con +
+- 
 
 
