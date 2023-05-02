@@ -83,7 +83,9 @@ analisis exploratorio de datos:
 - - - eliminar no es recomendado, es mejor remplazar
 - covariacion: como perillas entre mas obreros menos se demora en construir (proporcion indirecta)
 - - aes() de aestethics define que variables van en el grafico y en que ejes
-
+- coord_flip() cambia los ejes
+- geom_bin2d() crea cuadros con una escala cromatica de frencuencia
+- geom_hex() crea hexagonos
 
 
 
