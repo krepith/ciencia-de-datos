@@ -46,6 +46,8 @@ aca esta mi proceso aprendiendo ciencia de datos con el curso de ciencia de dato
 - sav (encuestas)
 - library(datapasta) para tablas en html
 
+## Modulo 2
+
 ### modulo2s1 :four:
 - transformar datos
 - - mutate crea una nueva columna con una operacion solicitada, edita la tabla
@@ -87,5 +89,13 @@ analisis exploratorio de datos:
 - geom_bin2d() crea cuadros con una escala cromatica de frencuencia
 - geom_hex() crea hexagonos
 
-
+### taller metricas
+- plot_intro() analisis general
+- IQR() intervalo intercuartilico, util en datos muy dispersos
+- upper_ci intervalo de confianza
+- attach() asigna el data frame para acceder facilmente a sus columnas
+- - detach() desasigna el dataframe para dejar libre ese espacio util
+- sturgles es una regla que sirve para calcular el número clases o intervalos idóneo en los que se debe dividir un conjunto de datos
+- cut() agrupa un vector en de datos basado en las clases que pertenece
+- cumsum() genera un vector de las sumas acumulativas 
 
