@@ -89,7 +89,7 @@ analisis exploratorio de datos:
 - geom_bin2d() crea cuadros con una escala cromatica de frencuencia
 - geom_hex() crea hexagonos
 
-### taller metricas
+### taller metricas 8️⃣:
 - plot_intro() analisis general
 - IQR() intervalo intercuartilico, util en datos muy dispersos
 - upper_ci intervalo de confianza
@@ -99,3 +99,11 @@ analisis exploratorio de datos:
 - cut() agrupa un vector en de datos basado en las clases que pertenece
 - cumsum() genera un vector de las sumas acumulativas 
 
+### taller excel 9️⃣:
+- excel maximo 1millon de filas y 16 mil columnas
+- read_excel("ruta", skip = 7) salta las primeras 7
+- - sheet = "Data" numero o nombre de la pagina del excel 
+- - range = "A1:Y11068" rango de el rectangulo que desea utilizar
+- - range= cell_rows(c(9:2089))) elige el rango de celdas desde la visualizacion de R
+- head y tail ayuda a mirar si hay defectos al final o al principio de la obtencion de datos de excel
+- 
