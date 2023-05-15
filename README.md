@@ -106,4 +106,6 @@ analisis exploratorio de datos:
 - - range = "A1:Y11068" rango de el rectangulo que desea utilizar
 - - range= cell_rows(c(9:2089))) elige el rango de celdas desde la visualizacion de R
 - head y tail ayuda a mirar si hay defectos al final o al principio de la obtencion de datos de excel
-- 
+- funciones para leer varios archivos
+- un excel con varias hojas
+- varios archivos con varias hojas !!!! - 
