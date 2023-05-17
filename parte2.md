@@ -1,7 +1,7 @@
 # ciencia-de-datos mudulo 3 y 4
 aca esta mi proceso aprendiendo ciencia de datos con el curso de ciencia de datos de openlab
 ## Modulo 3
-### visualizacion
+### visualizacion 🔟:
 - ggplot2 
 - - geom_point() dispersion de puntos
 - - geom_smooth() curvas de tendencia
