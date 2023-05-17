@@ -1,7 +1,7 @@
 # ciencia-de-datos mudulo 3 y 4
 aca esta mi proceso aprendiendo ciencia de datos con el curso de ciencia de datos de openlab
 ## Modulo 3
-### visualizacion 🔟:
+### visualizacion 1️⃣:
 - ggplot2 
 - - geom_point() dispersion de puntos
 - - geom_smooth() curvas de tendencia
@@ -19,6 +19,19 @@ aca esta mi proceso aprendiendo ciencia de datos con el curso de ciencia de dato
 - - - facet_grid(v1~v2) la interseccion de 2 variables 
 - - - ~ la virgulilla es una funcion de correlacion
 
-### visualizacion :eleven:
-- paquetes para visualizar de manera 
+### visualizacion 2️⃣:
+- paquetes para visualizar de manera clara y dinamica
+- - radarchart
+- - corplot
+- - leaflet
+- - gganimate - anima y hace gif, muy dinamico 
+- - plotly - graficos dinamicos para paginas web
+- - highcharter - dinamico e interactivo
+- USO DE HIGHCHARTER 
+- - hchart( dataframe, tipo_grafico, hcaes(mapeo))
+- - - tipos_graficos
+- - - - line - grafico de lineas
+- - - - column - grafico de barras
+- - - - scatter - grafico de puntos de dispersion
+- - - - pie - grafico de pastel
 
