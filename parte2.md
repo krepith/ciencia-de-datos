@@ -19,5 +19,6 @@ aca esta mi proceso aprendiendo ciencia de datos con el curso de ciencia de dato
 - - - facet_grid(v1~v2) la interseccion de 2 variables 
 - - - ~ la virgulilla es una funcion de correlacion
 
-
+### visualizacion :eleven:
+- paquetes para visualizar de manera 
 
