@@ -109,4 +109,7 @@ analisis exploratorio de datos:
 - head y tail ayuda a mirar si hay defectos al final o al principio de la obtencion de datos de excel
 - funciones para leer varios archivos
 - un excel con varias hojas
-- varios archivos con varias hojas !!!! - 
+- varios archivos con varias hojas !!!! 
+
+
+# sigo en el documento [Parte 2]([https://pages.github.com/](https://github.com/krepith/ciencia-de-datos/blob/main/parte2.md)).
