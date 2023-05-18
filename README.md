@@ -112,4 +112,4 @@ analisis exploratorio de datos:
 - varios archivos con varias hojas !!!! 
 
 
-# sigo en el documento [Parte 2]([https://pages.github.com/](https://github.com/krepith/ciencia-de-datos/blob/main/parte2.md)).
+# sigo en el documento [[Parte 2]](https://github.com/krepith/ciencia-de-datos/blob/main/parte2.md)
