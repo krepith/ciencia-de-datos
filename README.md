@@ -1,5 +1,6 @@
 # ciencia-de-datos
 aca esta mi proceso aprendiendo ciencia de datos con el curso de ciencia de datos de openlab
+bootcamp : ciencia de datos para el sector publico de salud
 ## Modulo 1 
 ### consejos :exclamation:
 - crear una subcarpeta para tus datos originales
