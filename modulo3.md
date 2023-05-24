@@ -1,4 +1,4 @@
-# ciencia-de-datos mudulo 3 y 4
+# ciencia-de-datos mudulo 3
 aca esta mi proceso aprendiendo ciencia de datos con el curso de ciencia de datos de openlab
 ## Modulo 3
 ### visualizacion 1️⃣:
